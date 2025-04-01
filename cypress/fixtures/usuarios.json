@@ -1,0 +1,62 @@
+[
+  {
+    "name": "João Silva",
+    "cpf": "15153435024",
+    "phone": "11987654321",
+    "email": "joao.silva@gmail.com"
+  },
+  {
+    "name": "Maria Oliveira",
+    "cpf": "18647753003",
+    "phone": "21987654321",
+    "email": "maria.oliveira@gmail.com"
+  },
+  {
+    "name": "Carlos Santos",
+    "cpf": "72465200070",
+    "phone": "31987654321",
+    "email": "carlos.santos@gmail.com"
+  },
+  {
+    "name": "Ana Souza",
+    "cpf": "15153435024",
+    "phone": "11976543210",
+    "email": "ana.souza@gmail.com"
+  },
+  {
+    "name": "Pedro Lima",
+    "cpf": "18647753003",
+    "phone": "21976543210",
+    "email": "pedro.lima@gmail.com"
+  },
+  {
+    "name": "Juliana Mendes",
+    "cpf": "72465200070",
+    "phone": "31976543210",
+    "email": "juliana.mendes@gmail.com"
+  },
+  {
+    "name": "Lucas Almeida",
+    "cpf": "15153435024",
+    "phone": "11965432109",
+    "email": "lucas.almeida@gmail.com"
+  },
+  {
+    "name": "Camila Rocha",
+    "cpf": "18647753003",
+    "phone": "21965432109",
+    "email": "camila.rocha@gmail.com"
+  },
+  {
+    "name": "Ricardo Costa",
+    "cpf": "72465200070",
+    "phone": "31965432109",
+    "email": "ricardo.costa@gmail.com"
+  },
+  {
+    "name": "Fernanda Nunes",
+    "cpf": "15153435024",
+    "phone": "11954321098",
+    "email": "fernanda.nunes@gmail.com"
+  }
+]
